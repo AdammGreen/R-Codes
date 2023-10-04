@@ -1,0 +1,15 @@
+######## QUESTIONS  ###############"
+
+1) Did average number of years married have an affect on the number of affairs?
+
+2) Of all the people sampled in this dataset, was gender identification a factor that affected number of affairs?
+
+3) Of those who were surveyed, did the people who had children have on average a higher or lower number of affairs?
+
+4) What was the average age of the people who had identified as having had at least one affair?
+
+5) Of those who had affairs, was there a larger number of people who had children than didn’t have children?
+
+6) Was there a difference in age between people with children who had affairs vs people who didn’t have children who had affairs?
+
+7) For each marriage satisfaction rating, what was the average number of affairs?
